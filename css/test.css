@@ -1,0 +1,26 @@
+body{
+	background-color: blanchedalmond;
+}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+h2{
+	font-size: 30px;
+	color: salmon;
+}
+.big{
+	font-family: monospace;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
+h1 span{
+	color: gray;
+	font-family: fantasy;
+	font-size: 20px;
+}
+</style>
